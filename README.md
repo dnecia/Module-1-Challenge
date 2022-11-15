@@ -5,4 +5,4 @@
 - Accessible alt attributes
 
 ![alt text](./assets/images/Horisen%20image.png)
-[This is the link to the Horiseon Website](https://dnecia.github.io/Module-1-Challenge/) 
+[This is the link to the Horiseon Website](https://dnecia.github.io/Module-1-Challenge-Horiseon/) 
